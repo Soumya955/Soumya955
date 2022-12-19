@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,NodeJS,ExpressJS,MongoDB**
 
+- In my free times I am solving problems **on GreeksforGreeks and Leetcode**
+
 - 📫 How to reach me **soumyarb292@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
