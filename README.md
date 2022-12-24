@@ -47,8 +47,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya955&show_icons=true&title_color=ffc800&text_color=fffafa&bg_color=100f0f&locale=en&layout=compact" alt="soumya955" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya955&show_icons=true&title_color=00bfff&text_color=ffffff&bg_color=0b0a0a&locale=en" alt="soumya955" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya955&theme=highcontrast" alt="soumya955" /></p>
+
+
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya955&show_icons=true&locale=en&layout=compact" alt="soumya955" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya955&show_icons=true&locale=en" alt="soumya955" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya955&" alt="soumya955" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya955&" alt="soumya955" /></p> -->
